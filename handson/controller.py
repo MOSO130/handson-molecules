@@ -1,6 +1,6 @@
 """Map hand shapes and hand movement to camera actions on the 3D view."""
 
-import tine 
+import time 
 import numpy as np
 import pyvista as pv
 
